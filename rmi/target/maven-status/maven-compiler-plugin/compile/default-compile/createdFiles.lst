@@ -1,0 +1,4 @@
+com\shopsphere\rmi\server\InventoryServiceImpl.class
+com\shopsphere\rmi\client\RmiClient.class
+com\shopsphere\rmi\server\RmiServer.class
+com\shopsphere\rmi\remote\InventoryService.class
